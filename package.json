@@ -1,0 +1,14 @@
+{
+  "name": "dependencies",
+  "version": "1.0.0",
+  "description": "packages",
+  "main": "server.js",
+  "repository": "git@github.com:hfakhreddine86/Friend-Finder.git",
+  "author": "Hussein Fakhreddine <hfakhreddine86@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
